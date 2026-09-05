@@ -1,0 +1,9 @@
+.neon
+.env
+**/.env
+.env.local
+node_modules/
+*.log
+debug-logs/
+
+.agents/
